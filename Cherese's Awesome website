@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Cherese</title>
+</head>
+<h1><center> Cherese's Social Site </h1></center>
+<body style="background-color: grey; width: 950px">
+<h2><center><iframe width="560" height="315" src="http://www.youtube.com/embed/hRXe7_CrMdc" frameborder="0" allowfullscreen></iframe></center>
+<style>
+p{text-indent:90px;}
+</style>
+<p style="background-color:grey;color:purple"><i> Hi, my is Cherese. I am 18 years old. I like to dance, sleep, and hang out sometimes. In August I will be attending Millikin University with a focus on chemistry with an emphasis on forensics. I have many interest as you all see. My biggest inspiration is my family and music. There's not a day I do not listen to music.I like Camaros because they are very nice. The body is sort of unique. It is considered a masculine car, but I think it is made for everyone. In the future when I have a good paying job I will have a modern one. My favorite color is purple. Just about everything I own is purple.I also like silver because it looks nice with purple. For prom I wore a purple dress with silver accessories.</p> 
+<p>What are your favorite music artist, shoes, and food? </p>
+<form>
+	First name: <input type="text" name="firstname"><br>
+	Last name: <input type="text" name="lastname"></form>
+	<form>
+	<input type="radio" name="sex" value="male">Male<br>
+	<input type="radio" name="sex" value="female">Female
+	</form>
+	<form>
+	<input type="checkbox" name="Age" value="age range">13-17<br>
+	<input type="checkbox" name="Age" value="age range">18+ 
+	</form>
+<table border="1">	
+<tr>
+<th>Favorite Artists</th>
+<th>Favorite Shoes</th>
+<th>Favorite Food</th>
+</tr>
+<tr>
+<td>Spenzo</td>
+<td>Jordans</td>
+<td>Chicken</td>
+</tr>
+<tr>
+<td>Tink</td>
+<td>Nikes</td>
+<td>Pizza</td>
+</tr>
+<tr>
+<td>Jahiem</td>
+<td>Lebron's</td>
+<td>Greens</td>
+</tr>
+</table>
+<p> <a href= "http://youtube.com/">Visit youtube</a></i></p>
+<center><iframe width="560" height="315" src="http://www.youtube.com/embed/FhOC9peRK_w" frameborder="0" allowfullscreen></iframe>
+</body></center>
+</html>
