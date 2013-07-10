@@ -1,0 +1,9 @@
+body{background-color:purple}
+#header{background-color:#888888; width:100%;
+	min-height:100px}
+#left_column{background-color:#FF66CC; width:33%;
+	min-height:400px;float:left}
+#main_content{background-color:#3399CC; width:67%;
+	min-height:400px; float:left}
+#footer{background-color:#66FF66; width:100%;
+	min-height:100px; clear:both}
