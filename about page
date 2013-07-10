@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Cherese
+</title>
+<link rel="stylesheet" type="text/css" href="Style.css"/>
+</head>
+<body>
+	<div id="header"></div>
+	<div id="left_column">
+		<a href= "Cherese3.html">
+	Home<br>
+		<a href="Portfolio.html">
+	Portfolio<br>
+		<a href="About.html">
+	About<br>
+		<a href="Contact.html">
+	Contact<br>
+		<a href= "http://youtube.com/">Visit Youtube</a></i><br><a href= "https://www.facebook.com/"> Visit Facebook</a>
+		</div>
+	<div id="main_content">
+		<table border="50">	
+	<tr>
+	<th>Favorite Artists</th>
+	<th>Favorite Shoes</th>
+	<th>Favorite Food</th>
+	</tr>
+	<tr>
+	<td>Spenzo</td>
+	<td>Jordans</td>
+	<td>Chicken</td>
+	</tr>
+	<tr>
+	<td>Tink</td>
+	<td>Nikes</td>
+	<td>Pizza</td>
+	</tr>
+	<tr>
+	<td>Jahiem</td>
+	<td>Lebron's</td>
+	<td>Greens</td>
+	</tr>
+	</table>
+	</div>
+	<div id="footer"></div>
