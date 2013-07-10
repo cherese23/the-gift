@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Cherese
+</title>
+<link rel="stylesheet" type="text/css" href="Style.css"/>
+</head>
+<body>	
+<div id="header"><h1><center> Cherese's Site </h1></center>
+</div>
+<div id="left_column">
+	<a href= "Cherese3.html">
+	Home<br>
+	<a href="Portfolio.html">
+	Portfolio<br>
+	<a href="About.html">
+	About<br>
+	<a href="Contact.html">
+	Contact<br>
+	<a href= "http://youtube.com/">Visit Youtube</a></i><br><a href= "https://www.facebook.com/"> Visit Facebook</a>
+</div>
+<div id="main_content">
+	<p style="font-size: 25px; font-family: Times New Roman">Hi, my is Cherese. I am 18 years old. I like to dance, sleep, and hang out. In August I will be attending Millikin University with a focus on chemistry with an emphasis on forensics. I have many interest as you all see. My biggest inspiration is my family and music. There's not a day I do not listen to music.I like Camaros because they are very nice. The body is sort of unique. It is considered a masculine car, but I think it is made for everyone. In the future when I have a good paying job I will have a modern one. My favorite color is purple. Just about everything I own is purple.I also like silver because it looks nice with purple. For prom I wore a purple dress with silver accessories.</p>
+	<img src="https://sphotos-b.xx.fbcdn.net/hphotos-frc1/995683_582615068426647_7693515_n.jpg">
+	
+</div>
+<div id="footer">
+<iframe width="560" height="315" src="http://www.youtube.com/embed/hRXe7_CrMdc" frameborder="0" allowfullscreen></iframe></center>
+	<center><iframe width="560" height="315"f src="http://www.youtube.com/embed/FhOC9peRK_w" frameborder="0" allowfullscreen></iframe></center><iframe width="420" height="315" src="http://www.youtube.com/embed/2D3WlMPpRIM" frameborder="0" allowfullscreen></iframe>
+</div>
+</body>
+</html>
