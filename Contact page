@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact Info</title>
+	<link rel="stylesheet" type="text/css" href="Style.css"/>
+	</head>
+	<body>
+		<div id="header"><p style="Font-size:32px;text-align:center">"The only way of finding the limits of the possible is by going beyond them into the impossible."
+		-Arthur C. Clarke
+			</div>
+			<div id="left_column">
+				<a href= "Cherese3.html">
+			Home<br>
+			<a href="Portfolio.html">
+			Portfolio<br>
+			<a href="About.html">
+			About<br>
+			<a href="Contact.html">
+			Contact<br>	<a href= "http://youtube.com/">Visit Youtube</a></i><br><a href= "https://www.facebook.com/"> Visit Facebook</a>
+				</div>
+				<div id="main_content"><form>
+					First name: <input type="text" name="firstname"><br>
+					Last name: <input type="text" name="lastname"></form>
+					<form>
+					<input type="radio" name="sex" value="male">Male<br>
+					<input type="radio" name="sex" value="female">Female
+					</form>
+				<form>
+					<input type="checkbox" name="Age" value="age range">13-17<br>
+					<input type="checkbox" name="Age" value="age range">18+ 
+					</form>
+					<p>What are your favorite music artist, shoes, and food? </p>
+					<textarea rows="4"cols="50"></textarea>
+					<form>
+					<input type="submit" value="Submit">
+					</form>
+					</div>
+					<div id="footer">
+						</div>
+		</body>
+		</html>
+		
